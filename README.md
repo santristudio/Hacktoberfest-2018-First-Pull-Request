@@ -86,7 +86,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 83.
 84.
 85.
-86.
+86.Omer Faruk
 87.
 88.
 89.

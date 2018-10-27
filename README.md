@@ -94,7 +94,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 91. SemicolonExpected
 92. Victorpy
 93. Jimothy Sanderz
-94.
+94. Kishan King
 95.
 96.
 97.

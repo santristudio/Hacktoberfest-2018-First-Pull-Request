@@ -88,8 +88,8 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 85. swt02026
 86. elf11
 87. Ghous Ahmed
-88. Aditya Prajapati
-89.
+88. Omer Faruk
+89. Aditya Prajapati
 90.
 91.
 92.
